@@ -1,0 +1,10 @@
+
+.col-md-6 {
+    /* width: 50%; */
+}
+
+.main-content li {
+    font-weight: 300;
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
